@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 3.0//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="1.0" type="template" client="site">
+    <name>Light Blog</name>
+    <version>1.0</version>
+    <creationDate>June, 2015</creationDate>
+    <author>JooThemes.net</author>
+    <authorEmail>contact@JooThemes.net</authorEmail>
+    <authorUrl>http://JooThemes.net</authorUrl>
+    <copyright>Copyright 2015 - JooThemes.net</copyright>
+    <license>Commercial Design</license>
+	<description><![CDATA[
+	<h1>Light Blog Free Joomla! 3 Responsive Template</h1>
+	<img src="../templates/lightblog/template_thumbnail.jpg" align="left" style="padding-right:20px;"/>
+	<b>Light Blog Free Joomla! 3 Responsive Template developed by <a target="_blank" href="http://JooThemes.net">JooThemes.net</a>.
+	<br />Need help to set up your template? Check out the <a target="_blank" href="http://JooThemes.net" target="_blank">Joothemes.net Support</a> page.
+	<br />Download our <a target="_blank" href="http://JooThemes.net/free-joomla-templates">Free Joomla templates</a>.
+	<br />See and buy our <a target="_blank" href="http://JooThemes.net/responsive-joomla-templates">Joomla Templates Premium Versions</a>.
+	<br />Copyright &copy; 2015 JooThemes.net - All Rights Reserved</b>.
+	<hr />
+	<p>Package tpl-lightblog-free-rwd-j3.zip<br>
+<strong>Light Blog Free Joomla! 3 Responsive Template - June 2015</strong><br>
+Version 1.0<br>
+License: Commercial Design & Layout</br>
+Author: <a target="_blank" href="http://JooThemes.net/">http://JooThemes.net</a><br>
+Copyright (C) 2015 JooThemes.net All Rights Reserved.<br>
+Email: <a href="mailto:contact@JooThemes.net">contact@JooThemes.net</a><br></p>
+
+<h2>Footer link remove license</h2>
+
+<p>Light Blog is free Joomla 3 template, released under the Creative Commons Attribution 3.0 license and are redistributed as long, as you keep the our links back on the footer.</p>
+
+<p>You CAN NOT remove (or unreadable) these links without our permission.</p> 
+
+<p>When you don't want to have link back on the template footer or want to use our templates for commercial websites, you have to pay $ 10 USD via PayPal.</p>
+
+<p>When you don't want to have backlinks on the template footer, you have to pay $ 10 USD via PayPal.</p>  
+
+<p>Paypal: contact@joothemes.net</p>
+
+<h2>GPL Licensing</h2>
+All JooThemes.net templates are released under the GNU General Public License, version 2 (http://www.gnu.org/licenses/gpl-2.0.html). Specifically, the PHP code portions are distributed under the GPL license. If not otherwise stated, all images, manuals, cascading style sheets, and included JavaScript are NOT GPL, and are released under "JooThemes.net" Proprietary Use License" unless specifically authorized. Elements of the templates released under this proprietary license may not be redistributed or repackaged for use other than those allowed by the Terms of Use.
+
+<h2>Buy Light Blog Quickstart Instalation Package</h2>
+<h3>What is quickstart package?</h3>
+"Quickstart Package" is a Light Blog Template + Joomla 3 + all content, all modules, all components and settings used in <a target="_blank"  href="http://demo.JooThemes.net/joomla3/lightblog/">demo site</a>.</p>
+<h2>How to install Quickstart package?</h2>
+<p>Quickstart Package install exactly the same as a normal Joomla! installation package. (To get know more about technical requirements to run Joomla! please visit: Joomla technical requirements).</p>
+
+<h2>TEMPLATE FEATURES</h2>
+<p>Light Blog Free Responsive Joomla! 3 template is based on the Bootstrap Framework. The Bootstrap Framework makes it fully responsive to all screen resolutions and aspect ratios.</p>
+<ul>
+<li>Joomla! 3.x compatible.</li>
+<li>Based on Bootstrap.&nbsp;One framework, every device. Bootstrap easily and efficiently scales your Joomla websites with a single code base, from phones to tablets to desktops with CSS media queries.</li>
+<li>Responsive Mobile-Friendly template for all Joomla 3.x. A responsive layout automatically adapts to the viewing device, allowing for an optimized appearance on multiple devices, such as tablets.</li>
+<li>Template Bundle Package.</li>
+<li>CSS Superfish multi level dropdown menu<strong>.</strong></li>
+<li>Responsive Menu.</li>
+<li>FlexSlider - an awesome, fully responsive jQuery slider!</li>
+<li>jComments support and jComment theme (available only with Qucikstart Package).</li>
+<li>Gallery plugin and modules (available in Qucikstart Package)&nbsp;</li>
+<li>Joomla news module display latest news (Joomla Articles or K2) with full control over all elements&nbsp;<span style="line-height: 15.6000003814697px;">(available only with Qucikstart Package).</span></li>
+<li>Client Logos Scroller module, it's allow you can put your client into a folder at your server and it will display your client's logo as scroller.&nbsp;<span style="line-height: 15.6000003814697px;">(<span style="line-height: 15.6000003814697px;">Client Logos Scroller module</span> available only in Qucikstart Package)</span></li>
+<li>Google Map module&nbsp;<span style="line-height: 15.6000003814697px;">(available only in Qucikstart Package).</span></li>
+<li>Tableless design and 100% CSS based.</li>
+<li>Lightweight and fast-loading.</li>
+<li>Logo as Text or Image with configuration parameters.</li>
+<li>Built-in 650+ Google Fonts&nbsp;<span style="line-height: 15.6000003814697px;">(available only with Qucikstart Package).</span></li>
+<li>Built-in 30+ social media icons for the popular social networking sites including Twitter, Facebook, Google Plus, Youtube, LinkedIn and more...</li>
+<li>4 layout options: 3 columns (left+component+right), 2 columns (left+component), 2 columns (component + right), 1 column (component).</li>
+<li>11 Possible Module Positions.&nbsp;All module positions are fully collapsible</li>
+<li>Support for Sitemap - Xmap component.</li>
+<li>Cross-Browser Support - Light Blog template work great with all modern browsers like Firefox, Chrome, Safari, Opera and Internet Explorer 9+.</li>
+<li>SEF Optimised Layout.</li>
+<li>Heading: h1, h2, h3, h4 and h5.</li>
+<li>Optimized code for Search Engines which helps in SEO.</li>
+<li>SEO Breadcrumbs with Microdata Google - this will give a nice category-display in the Google search results.</li>
+</ul>
+<ul>
+<li><strong>Full quickstart installation package with Joomla 3.4.3.</strong>
+<p><strong>What is quickstart package?</strong> - "Quickstart Package" is a LIGHT BLOG Template + Joomla 3.4.3 + all content, all modules, all components and settings used in demo site.</p>
+<p><strong>How to install Quickstart package?</strong><br />Quickstart Package install exactly the same as a normal Joomla! installation package. (To get know more about technical requirements to run Joomla! please visit: <a href="http://www.joomla.org/about-joomla/technical-requirements.html" title="Joomla technical requirements">Joomla technical requirements</a>).</p>
+</li>
+<li>Quickstart Package Extra Extensions (Components, Modules, Plugin) Included.</li>
+<li>Automatic Slideshow. FlexSlider - an awesome, fully responsive jQuery slider. Supported in all major browsers. Horizontal/vertical slide and fade animations. &nbsp;Hardware accelerated touch swipe support. Custom navigation options.</li>
+<li>Gallery plugin &amp; module - Sigplus Gallery (Sigplus Image Gallery Plus is a straightforward way to add image or photo galleries to a Joomla article with a simple syntax. It takes a matter of minutes to set up a gallery but those who are looking for a powerful gallery solution will not be disappointed either: sigplus is suitable for both beginner and advanced users.</li>
+<li>Joomla news module display latest news (Joomla Articles or K2) with full control over all elements (available only with Qucikstart Package).</li>
+<li>mapX - the best sitemap component.&nbsp;mapX is a the best site map generator component for Joomla CMS. mapX allows you to create a map of your site based on the structure of your menus. mapX is the most popular site map generator for Joomla since it was launched back in 2008 by Guillermo Vargas as Xmap.</li>
+<li>JCE editor - the best WYSiWYG editor for Joomla!</li>
+<li>jComments component and jComments LIGHT BLOG theme.&nbsp;The JComments allows to website visitors to leave comments to any published materials. It provides the flexible system of access rights settings, wide possibilities of custom view setting, uses the AJAX technology and provides many other features.</li>
+<li>Client Logos Scroller module, it's allow you can put your client into a folder at your server and it will display your client's logo as scroller.</li>
+<li>Extra SEO SEF plugins automatically generates description meta tags by pulling text from the content to help with SEO. It also gives you the ability to set different title configurations.</li>
+<li>Extra Cache plugin.</li>
+<li>And more...</li>
+</ul>
+<h2><a href="http://joothemes.net/responsive-joomla-templates/light-blog-free-joomla-3-rwd-template" target="_blank" title="Buy this template with Joomla Quickstart Package">Qucikstart Package - Buy Now (only 15 USD)</a></h2>
+    
+<h2><strong>More information on <a target="_blank" href="http://JooThemes.net/">http://JooThemes.net</a></strong></h2>
+
+<h2>Light Blog Free RWD Joomla template modules positions:</h2>
+<img src="../templates/lightblog/images/modules.png" align="left" hspace="10" style="padding-top:10px;"/>
+	]]></description>
+	<files>
+		<filename>index.php</filename>
+		<filename>index.html</filename>
+		<filename>favicon.ico</filename>
+		<filename>component.php</filename>
+		<filename>error.php</filename>
+		<filename>offline.php</filename>
+		<filename>functions.php</filename>
+		<filename>slideshow.php</filename>
+		<filename>social.php</filename>
+		<filename>social-sticky.php</filename>
+		<filename>template_thumbnail.jpg</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>params.ini</filename>
+		<filename>license.txt</filename>
+		<folder>html/</folder>
+		<folder>css/</folder>
+		<folder>images/</folder>
+		<folder>js/</folder>
+		<folder>bootstrap/</folder>
+        <folder>admin/</folder>			
+	</files>
+	
+	<languages folder="language">
+		<language tag="da-DK">da-DK/da-DK.tpl_lightblog.sys.ini</language>
+		<language tag="de-DE">de-DE/de-DE.tpl_lightblog.sys.ini</language>
+		<language tag="el-GR">el-GR/el-GR.tpl_lightblog.sys.ini</language>
+		<language tag="en-GB">en-GB/en-GB.tpl_lightblog.sys.ini</language>
+		<language tag="es-ES">es-ES/es-ES.tpl_lightblog.sys.ini</language>
+		<language tag="fr-FR">fr-FR/fr-FR.tpl_lightblog.sys.ini</language>
+		<language tag="hr-HR">hr-HR/hr-HR.tpl_lightblog.sys.ini</language>
+		<language tag="it-IT">it-IT/it-IT.tpl_lightblog.sys.ini</language>
+		<language tag="nl-NL">nl-NL/nl-NL.tpl_lightblog.sys.ini</language>
+		<language tag="pl-PL">pl-PL/pl-PL.tpl_lightblog.sys.ini</language>
+		<language tag="pt-BR">pt-BR/pt-BR.tpl_lightblog.sys.ini</language>
+		<language tag="ru-RU">ru-RU/ru-RU.tpl_lightblog.sys.ini</language>
+	</languages>
+	
+	<positions>
+	    <position>bannertop</position>
+		<position>breadcrumbs</position>
+		<position>top</position>
+		<position>menu</position>
+		<position>footermenu</position>
+		<position>left</position>
+		<position>right</position>
+		<position>user1</position>
+		<position>user3</position>
+		<position>user2</position>
+		<position>user4</position>
+		<position>user5</position>
+		<position>user6</position>
+		<position>usermap</position>
+		<position>bottomgallery</position>
+	</positions>
+	<config>
+		<fields name="params">
+			<fieldset name="advanced">
+				<field name="jquery" type="list" default="yes" label="jQuery" description="Enable or disable jQuery latest version." filter="word">
+					<option value="yes">Enable</option>
+					<option value="no">Disable</option>
+				</field>	
+
+<field name="backgroundVariation" type="list" default="nn" label="Background Variation" description="Background variation to use">
+    <option value="defaultbg">Default background</option>
+    <option value="lnd">Light noise diagonal</option>
+	<option value="ilu">Ilusion</option>
+	<option value="ski">Skin side up</option>
+	<option value="reti">Reticular Tissue</option>
+    <option value="la">Light alu</option>
+    <option value="wbs">White bed sheet</option>
+    <option value="lght">Lghtmesh</option>
+    <option value="nn">Noisy net</option>
+	<option value="noisel">Noise lines</option>
+    <option value="hex">Hexellence</option>
+	<option value="agrey">Always grey</option>
+	<option value="pyr">Pyramid</option>
+	<option value="lknb">Little knobs</option>
+</field>
+
+				
+				<field name="scrolltop" type="list" default="yes" label="Back to Top Button" description="Enable or disable Back to Top button. This requires jQuery plugin." filter="word">
+					<option value="yes">Enable</option>
+					<option value="no">Disable</option>
+				</field>
+				<field name="superfish" type="list" default="yes" label="Superfish Menu Effect" description="Enable or disable Supperfish effect for main navigation menu. This requires jQuery plugin." filter="word">
+					<option value="yes">Enable</option>
+					<option value="no">Disable</option>
+				</field>											
+				<field name="logotype" type="list" default="text" label="Logo Type" description="Choose the type of the logo you want to display." filter="word">
+					<option value="image">Image Logo</option>
+					<option value="text">Text Logo</option>
+				</field>			
+			 <field name="logo" type="media" label="Logo Image" description="Please choose an image. If you want to display the original logo from the template, click on Clear and leave the field blank." />
+			 <field name="sitetitle"  type="text" default="LIGHT BLOG" label="Logo Text" description="Please add your site title here, it's only displayed if you don't use a the text logo option." filter="string" />
+			 <field name="sitedesc"  type="text" default="Joomla 3 Free Template"	label="Site Description" description="Add your site's description here. Leave it blank to disable." filter="string" />
+			</fieldset>
+			
+<fieldset name="gfont" description="" label="Google Fonts">
+			
+<field name="googleFontBody" class="" type="list" default="Lora" label="Choose Google Font mainbody text" description="You change the font for main text body." >
+
+<option value="Lora">Lora</option>
+<option value="Open+Sans+Condensed">Open+Sans+Condensed</option>
+<option value="Oswald">Oswald</option>
+<option value="PT+Sans">PT+Sans</option>
+
+		     </field>
+			
+			 <field name="googleFont" class="" type="list" default="Playfair+Display" label="Choose Google Font" description="You change the font for headers and main menu." >
+
+<option value="Open+Sans+Condensed">Open+Sans+Condensed</option>
+<option value="Oswald">Oswald</option>
+<option value="PT+Sans">PT+Sans</option>
+<option value="Playfair+Display">Playfair+Display</option>
+
+		     </field>
+			 <field name="googleFontCharacter" class="" type="text" default="latin,latin-ext" label="Choose the character sets you want:" description="You can use (one or more, each separated by commas): latin,latin-ext,cyrillic,cyrillic-ext,greek,greek-ext,vietnamese,khmer,devanagari. IMPORTANT! If you are not sure if the font supports your language, refer to https://www.google.com/fonts.">
+		     </field>
+			 <field name="googleFontWeight" class="" type="text" default="400,700" label="Font weight:" description="You can use (one or more, each separated by commas): 300,400,700. IMPORTANT! If you are not sure if the font supports weight, refer to https://www.google.com/fonts.">
+		     </field>
+			 
+			 <field type="spacer" class="text" label="&lt;a href='http://joothemes.net/responsive-joomla-templates/light-blog-free-joomla-3-rwd-template' target='_blank'&gt;&lt;b style='color:red;text-decoration: underline;font-size: 20px'&gt;More Google Fonts (650+) available in QUICKSTART LIGHT BLOG Template.&lt;/b&gt;&lt;/a&gt;" />
+			 
+			</fieldset>
+			
+			<fieldset name="analytics" description="" label="Google Analitycs">	
+			<field name="analyticsCode" type="textarea" rows="6" cols="40" label="Here paste your Google Analytics code:" description="Here paste your Google Analytics code" />
+			</fieldset>	 
+			
+			<fieldset name="slides" label="Slideshow Setup">	
+        <field name="menuid" type="menuitem"  multiple="true" size="10" default="0" label="Show/Hide Slideshow" description="Select Menu where to show the slideshow" >
+        	<option value="0">- Hide Slideshow -</option>
+        </field>
+		<field name="animation" type="list" default="slide" label="Slideshow Animation" description="Choose the animation type for the slideshow" filter="word">
+					<option value="fade">Fade</option>
+					<option value="slide">Slide</option>
+		</field>	 
+		<!-- SLIDE 1 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 1&lt;/h3&gt;" />
+		<field name="Image1" label="Image 1" type="media" default="templates/lightblog/images/slide/slide1.jpg"  description="Choose an image." />
+		<field name="Link1" label="Link 1" type="text"  description="URL where the slider image will link." />
+		<field name="Caption1" label="Caption 1" type="textarea" filter="safehtml"  cols="30" rows="5" default="Joomla! 3.x Compatible Theme" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 2 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 2&lt;/h3&gt;" />
+		<field name="Image2" label="Image 2" type="media" default="templates/lightblog/images/slide/slide2.jpg" description="Choose an image." />
+		<field name="Link2" label="Link 2" type="text"  description="URL where the slider image will link." />
+		<field name="Caption2" label="Caption 2" type="textarea" filter="safehtml"  cols="30" rows="5" default="The Best Responsive Slider" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 3 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 3&lt;/h3&gt;" />
+		<field name="Image3" label="Image 3" type="media" default="templates/lightblog/images/slide/slide3.jpg" description="Choose an image." />
+		<field name="Link3" label="Link 3" type="text"  description="URL where the slider image will link." />
+		<field name="Caption3" label="Caption 3" type="textarea" filter="safehtml"  cols="30" rows="5" default="Built-in 650+ Google Fonts!" description="Add image caption here. HTML allowed." />		
+		<!-- SLIDE 4 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 4&lt;/h3&gt;" />
+		<field name="Image4" label="Image 4" type="media"  description="Choose an image." />
+		<field name="Link4" label="Link 4" type="text"  description="URL where the slider image will link." />
+		<field name="Caption4" label="Caption 4" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 5 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 5&lt;/h3&gt;" />
+		<field name="Image5" label="Image 5" type="media"  description="Choose an image." />
+		<field name="Link5" label="Link 5" type="text"  description="URL where the slider image will link." />
+        <field name="Caption5" label="Caption 5" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 6 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 6&lt;/h3&gt;" />
+		<field name="Image6" label="Image 6" type="media"  description="Choose an image." />
+		<field name="Link6" label="Link 6" type="text"  description="URL where the slider image will link." />
+        <field name="Caption6" label="Caption 6" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 7 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 7&lt;/h3&gt;" />
+		<field name="Image7" label="Image 7" type="media"  description="Choose an image." />
+		<field name="Link7" label="Link 7" type="text"  description="URL where the slider image will link." />
+        <field name="Caption7" label="Caption 7" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+
+		<!-- SLIDE 8 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 8&lt;/h3&gt;" />
+		<field name="Image8" label="Image 8" type="media"  description="Choose an image." />
+		<field name="Link8" label="Link 8" type="text"  description="URL where the slider image will link." />
+        <field name="Caption8" label="Caption 8" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 9 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 9&lt;/h3&gt;" />
+		<field name="Image9" label="Image 9" type="media"  description="Choose an image." />
+		<field name="Link9" label="Link 9" type="text"  description="URL where the slider image will link." />
+        <field name="Caption9" label="Caption 9" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 10 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 10&lt;/h3&gt;" />
+		<field name="Image10" label="Image 10" type="media"  description="Choose an image." />
+		<field name="Link10" label="Link 10" type="text"  description="URL where the slider image will link." />
+        <field name="Caption10" label="Caption 10" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 11 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 11&lt;/h3&gt;" />
+		<field name="Image11" label="Image 11" type="media"  description="Choose an image." />
+		<field name="Link11" label="Link 11" type="text"  description="URL where the slider image will link." />
+        <field name="Caption11" label="Caption 11" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 12 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 12&lt;/h3&gt;" />
+		<field name="Image12" label="Image 12" type="media"  description="Choose an image." />
+		<field name="Link12" label="Link 12" type="text"  description="URL where the slider image will link." />
+        <field name="Caption12" label="Caption 12" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 13 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 13&lt;/h3&gt;" />
+		<field name="Image13" label="Image 13" type="media"  description="Choose an image." />
+		<field name="Link13" label="Link 13" type="text"  description="URL where the slider image will link." />
+        <field name="Caption13" label="Caption 13" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 14 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 14&lt;/h3&gt;" />
+		<field name="Image14" label="Image 14" type="media"  description="Choose an image." />
+		<field name="Link14" label="Link 14" type="text"  description="URL where the slider image will link." />
+        <field name="Caption14" label="Caption 14" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 15 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 15&lt;/h3&gt;" />
+		<field name="Image15" label="Image 15" type="media"  description="Choose an image." />
+		<field name="Link15" label="Link 15" type="text"  description="URL where the slider image will link." />
+        <field name="Caption15" label="Caption 15" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 16 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 16&lt;/h3&gt;" />
+		<field name="Image16" label="Image 16" type="media"  description="Choose an image." />
+		<field name="Link16" label="Link 16" type="text"  description="URL where the slider image will link." />
+        <field name="Caption16" label="Caption 16" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 17 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 17&lt;/h3&gt;" />
+		<field name="Image17" label="Image 17" type="media"  description="Choose an image." />
+		<field name="Link17" label="Link 17" type="text"  description="URL where the slider image will link." />
+        <field name="Caption17" label="Caption 17" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 18 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 18&lt;/h3&gt;" />
+		<field name="Image18" label="Image 18" type="media"  description="Choose an image." />
+		<field name="Link18" label="Link 18" type="text"  description="URL where the slider image will link." />
+        <field name="Caption18" label="Caption 18" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 19 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 19&lt;/h3&gt;" />
+		<field name="Image19" label="Image 19" type="media"  description="Choose an image." />
+		<field name="Link19" label="Link 19" type="text"  description="URL where the slider image will link." />
+        <field name="Caption19" label="Caption 19" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		<!-- SLIDE 20 -->
+		<field type="spacer" name="&lt;h3 class=&quot;sub-heading&quot;&gt;Slide 20&lt;/h3&gt;" />
+		<field name="Image20" label="Image 20" type="media"  description="Choose an image." />
+		<field name="Link20" label="Link 20" type="text"  description="URL where the slider image will link." />
+        <field name="Caption20" label="Caption 20" type="textarea" filter="safehtml"  cols="30" rows="5" default="" description="Add image caption here. HTML allowed." />
+		</fieldset>
+		
+		<fieldset name="social" label="Social Icons">			
+			<field name="SocialLink1" label="&lt;div class=&quot;social_1&quot;&gt;Facebook&lt;/div&gt;" type="text" default="" description="Add URL here. (ie: http://facebook.com/user.name)" />
+			<field name="SocialLink2" label="&lt;div class=&quot;social_2&quot;&gt;Twitter&lt;/div&gt;" type="text" default="" description="Add URL here. (ie: http://twitter/username)" />
+			<field name="SocialLink3" label="&lt;div class=&quot;social_3&quot;&gt;Google&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink4" label="&lt;div class=&quot;social_4&quot;&gt;Youtube&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink5" label="&lt;div class=&quot;social_5&quot;&gt;Vimeo&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink6" label="&lt;div class=&quot;social_6&quot;&gt;Flickr&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink7" label="&lt;div class=&quot;social_7&quot;&gt;Pinterest&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink8" label="&lt;div class=&quot;social_8&quot;&gt;Picasa&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink9" label="&lt;div class=&quot;social_9&quot;&gt;Linkedin&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink10" label="&lt;div class=&quot;social_10&quot;&gt;RSS&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink11" label="&lt;div class=&quot;social_11&quot;&gt;Evernote&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink12" label="&lt;div class=&quot;social_12&quot;&gt;Dribbble&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink13" label="&lt;div class=&quot;social_13&quot;&gt;Tumblr&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink14" label="&lt;div class=&quot;social_14&quot;&gt;Behance&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink15" label="&lt;div class=&quot;social_15&quot;&gt;StumbleUpon&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink16" label="&lt;div class=&quot;social_16&quot;&gt;Dropbox&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink17" label="&lt;div class=&quot;social_17&quot;&gt;SoundCloud&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink18" label="&lt;div class=&quot;social_18&quot;&gt;Last.fm&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink19" label="&lt;div class=&quot;social_19&quot;&gt;Forrst&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink20" label="&lt;div class=&quot;social_20&quot;&gt;DeviantArt&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink21" label="&lt;div class=&quot;social_21&quot;&gt;Blogger&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink22" label="&lt;div class=&quot;social_22&quot;&gt;Instagram&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink23" label="&lt;div class=&quot;social_23&quot;&gt;Yahoo&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink24" label="&lt;div class=&quot;social_24&quot;&gt;GrooveShark&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink25" label="&lt;div class=&quot;social_25&quot;&gt;Digg&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink26" label="&lt;div class=&quot;social_26&quot;&gt;Skype&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink27" label="&lt;div class=&quot;social_27&quot;&gt;ShareThis&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink28" label="&lt;div class=&quot;social_28&quot;&gt;Bebo&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink29" label="&lt;div class=&quot;social_29&quot;&gt;Zerply&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink30" label="&lt;div class=&quot;social_30&quot;&gt;MySpace&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink31" label="&lt;div class=&quot;social_31&quot;&gt;Wikipedia&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink32" label="&lt;div class=&quot;social_32&quot;&gt;Technorati&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink33" label="&lt;div class=&quot;social_33&quot;&gt;AddThis&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink34" label="&lt;div class=&quot;social_34&quot;&gt;Delicious&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink35" label="&lt;div class=&quot;social_35&quot;&gt;Xing&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink36" label="&lt;div class=&quot;social_36&quot;&gt;Quora&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink37" label="&lt;div class=&quot;social_37&quot;&gt;Github&lt;/div&gt;" type="text" default="" description="Add URL here." />
+		</fieldset>
+
+        <fieldset name="socialsticky" label="Sticky Left Social Icons">			
+			<field name="SocialLinkSticky1" label="&lt;div class=&quot;social_1&quot;&gt;Facebook&lt;/div&gt;" type="text" default="" description="Add URL here. (ie: http://facebook.com/user.name)" />
+			<field name="SocialLinkSticky2" label="&lt;div class=&quot;social_2&quot;&gt;Twitter&lt;/div&gt;" type="text" default="" description="Add URL here. (ie: http://twitter/username)" />
+			<field name="SocialLinkSticky3" label="&lt;div class=&quot;social_3&quot;&gt;Google&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky4" label="&lt;div class=&quot;social_4&quot;&gt;Youtube&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky5" label="&lt;div class=&quot;social_5&quot;&gt;Vimeo&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky6" label="&lt;div class=&quot;social_6&quot;&gt;Flickr&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky7" label="&lt;div class=&quot;social_7&quot;&gt;Pinterest&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky8" label="&lt;div class=&quot;social_8&quot;&gt;Picasa&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky9" label="&lt;div class=&quot;social_9&quot;&gt;Linkedin&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky10" label="&lt;div class=&quot;social_10&quot;&gt;RSS&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky11" label="&lt;div class=&quot;social_11&quot;&gt;Evernote&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky12" label="&lt;div class=&quot;social_12&quot;&gt;Dribbble&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky13" label="&lt;div class=&quot;social_13&quot;&gt;Tumblr&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky14" label="&lt;div class=&quot;social_14&quot;&gt;Behance&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky15" label="&lt;div class=&quot;social_15&quot;&gt;StumbleUpon&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky16" label="&lt;div class=&quot;social_16&quot;&gt;Dropbox&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky17" label="&lt;div class=&quot;social_17&quot;&gt;SoundCloud&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky18" label="&lt;div class=&quot;social_18&quot;&gt;Last.fm&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky19" label="&lt;div class=&quot;social_19&quot;&gt;Forrst&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky20" label="&lt;div class=&quot;social_20&quot;&gt;DeviantArt&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky21" label="&lt;div class=&quot;social_21&quot;&gt;Blogger&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky22" label="&lt;div class=&quot;social_22&quot;&gt;Instagram&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky23" label="&lt;div class=&quot;social_23&quot;&gt;Yahoo&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky24" label="&lt;div class=&quot;social_24&quot;&gt;GrooveShark&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky25" label="&lt;div class=&quot;social_25&quot;&gt;Digg&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky26" label="&lt;div class=&quot;social_26&quot;&gt;Skype&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky27" label="&lt;div class=&quot;social_27&quot;&gt;ShareThis&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky28" label="&lt;div class=&quot;social_28&quot;&gt;Bebo&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky29" label="&lt;div class=&quot;social_29&quot;&gt;Zerply&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky30" label="&lt;div class=&quot;social_30&quot;&gt;MySpace&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky31" label="&lt;div class=&quot;social_31&quot;&gt;Wikipedia&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky32" label="&lt;div class=&quot;social_32&quot;&gt;Technorati&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky33" label="&lt;div class=&quot;social_33&quot;&gt;AddThis&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky34" label="&lt;div class=&quot;social_34&quot;&gt;Delicious&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky35" label="&lt;div class=&quot;social_35&quot;&gt;Xing&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky36" label="&lt;div class=&quot;social_36&quot;&gt;Quora&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLinkSticky37" label="&lt;div class=&quot;social_37&quot;&gt;Github&lt;/div&gt;" type="text" default="" description="Add URL here." />
+		</fieldset>		
+		
+		</fields>
+	</config>	
+</extension>

@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="module" version="3.1.0" client="site" method="upgrade">
+    <name>Media Portfolio</name>
+    <author>Globbers</author>
+    <email>globbers@hotmail.fr</email>
+    <version>1.0.0</version>
+    <description>Module media portfolio for joomla 2.5x and joomla 3x.</description>
+    <files>
+       <filename>mod_mediafolio.xml</filename>
+        <filename module="mod_mediafolio">mod_mediafolio.php</filename>
+        <filename>index.html</filename>
+        <filename>helper.php</filename>
+        <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+        <folder>assets</folder>
+    </files>
+    <config>
+		<fields name="params">
+			<fieldset name="Options">
+				<field name="loadjquery" type="radio" class="btn-group btn-group-yesno" default="0" label="Load Jquery lib" description="choose to enable or disable loading jquery library">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="columns" type="list" class="btn-group btn-group-yesno" default="6" label="Columns number" description="Choose how many numbers of the clumn for the module">
+				    <option value="6">Six Columns</option>
+				    <option value="5">Five Columns</option>
+					<option value="4">Four Columns</option>
+					<option value="3">Three Columns</option>
+					<option value="2">Two Columns</option>
+				</field>
+				
+				<field name="startanimation" type="list" class="btn-group btn-group-yesno" default="fadeInUpBig" label="Animation start portfolio" description="Choose animation">
+				    <option value="fadeInUpBig">fadeInUpBig</option>
+					<option value="fadeInDownBig">fadeInDownBig</option>
+					<option value="lightSpeedIn">lightSpeedIn</option>
+					<option value="rotateIn">rotateIn</option>
+					<option value="rotateInDownLeft">rotateInDownLeft</option>
+					<option value="rotateInDownRight">rotateInDownRight</option>
+					<option value="rotateInUpLeft">rotateInUpLeft</option>
+					<option value="rotateInUpRight">rotateInUpRight</option>
+					<option value="slideInUp">slideInUp</option>
+				</field>
+				
+				<field
+					name="moduleclass_sfx"
+					type="textarea" rows="3"
+					label="COM_MODULES_FIELD_MODULECLASS_SFX_LABEL"
+					description="COM_MODULES_FIELD_MODULECLASS_SFX_DESC" />
+					
+				<field type="spacer" name="spacer1" hr="true" />
+				
+				<field name="enableitem1" type="radio" class="btn-group btn-group-yesno" default="1" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title1" type="text" default="Car template" label="Title of the Item #1" description="" size="10" />
+				<field name="project_text1" type="text" default="responsive car template" label="Text of the Item #1" description="" size="10" />
+				<field name="project_img1" type="media" default="images/gallery-bottom/10.jpg" label="Images of the Item #1" description="The image of the item #1" />
+				
+				<field type="spacer" name="spacer2" hr="true" />				
+				
+				<field name="enableitem2" type="radio" class="btn-group btn-group-yesno" default="1" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title2" type="text" default="Joomla template" label="Title of the Item #2" description="" size="10" />
+				<field name="project_text2" type="text" default="Nice car template" label="Text of the Item #2" description="" size="10" />
+				<field name="project_img2" type="media" default="images/gallery-bottom/11.jpg" label="Images of the Item #2" description="The image of the item #2" />
+				
+				<field type="spacer" name="spacer3" hr="true" />				
+				
+				<field name="enableitem3" type="radio" class="btn-group btn-group-yesno" default="1" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title3" type="text" default="RWD car template" label="Title of the Item #3" description="" size="10" />
+				<field name="project_text3" type="text" default="full rwd template" label="Text of the Item #3" description="" size="10" />
+				<field name="project_img3" type="media" default="images/gallery-bottom/12.jpg" label="Images of the Item #3" description="The image of the item #3" />
+				
+				
+				<field type="spacer" name="spacer4" hr="true" />				
+				
+				<field name="enableitem4" type="radio" class="btn-group btn-group-yesno" default="1" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title4" type="text" default="Beautiful" label="Title of the Item #4" description="" size="10" />
+				<field name="project_text4" type="text" default="Wow, nice photo!" label="Text of the Item #4" description="" size="10" />
+				<field name="project_img4" type="media" default="images/gallery-bottom/13.jpg" label="Images of the Item #4" description="The image of the item #4" />
+				
+				<field type="spacer" name="spacer5" hr="true" />				
+				
+				<field name="enableitem5" type="radio" class="btn-group btn-group-yesno" default="1" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title5" type="text" default="Spices" label="Title of the Item #5" description="" size="10" />
+				<field name="project_text5" type="text" default="Nice design!" label="Text of the Item #5" description="" size="10" />
+				<field name="project_img5" type="media" default="images/gallery-bottom/16.jpg" label="Images of the Item #5" description="The image of the item #5" />
+				
+				<field type="spacer" name="spacer6" hr="true" />				
+				
+				<field name="enableitem6" type="radio" class="btn-group btn-group-yesno" default="1" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title6" type="text" default="Berries" label="Title of the Item #6" description="" size="10" />
+				<field name="project_text6" type="text" default="Digital photography" label="Text of the Item #6" description="" size="10" />
+				<field name="project_img6" type="media" default="images/gallery-bottom/3.jpg" label="Images of the Item #6" description="The image of the item #6" />
+				
+				<field type="spacer" name="spacer7" hr="true" />				
+				
+				<field name="enableitem7" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title7" type="text" default="" label="Title of the Item #7" description="" size="10" />
+				<field name="project_text7" type="text" default="" label="Text of the Item #7" description="" size="10" />
+				<field name="project_img7" type="media" default="" label="Images of the Item #7" description="The image of the item #7" />
+				
+				<field type="spacer" name="spacer8" hr="true" />				
+				
+				<field name="enableitem8" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title8" type="text" default="" label="Title of the Item #8" description="" size="10" />
+				<field name="project_text8" type="text" default="" label="Text of the Item #8" description="" size="10" />
+				<field name="project_img8" type="media" default="" label="Images of the Item #8" description="The image of the item #8" />
+				
+				<field type="spacer" name="spacer9" hr="true" />				
+				
+				<field name="enableitem9" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title9" type="text" default="" label="Title of the Item #9" description="" size="10" />
+				<field name="project_text9" type="text" default="" label="Text of the Item #9" description="" size="10" />
+				<field name="project_img9" type="media" default="" label="Images of the Item #9" description="The image of the item #9" />
+				
+				<field type="spacer" name="spacer10" hr="true" />				
+				
+				<field name="enableitem10" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title10" type="text" default="" label="Title of the Item #10" description="" size="10" />
+				<field name="project_text10" type="text" default="" label="Text of the Item #10" description="" size="10" />
+				<field name="project_img10" type="media" default="" label="Images of the Item #10" description="The image of the item #10" />
+				
+				<field type="spacer" name="spacer11" hr="true" />				
+				
+				<field name="enableitem11" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title11" type="text" default="" label="Title of the Item #11" description="" size="10" />
+				<field name="project_text11" type="text" default="" label="Text of the Item #11" description="" size="10" />
+				<field name="project_img11" type="media" default="" label="Images of the Item #11" description="The image of the item #11" />
+				
+				<field type="spacer" name="spacer12" hr="true" />				
+				
+				<field name="enableitem12" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title12" type="text" default="" label="Title of the Item #12" description="" size="10" />
+				<field name="project_text12" type="text" default="" label="Text of the Item #12" description="" size="10" />
+				<field name="project_img12" type="media" default="" label="Images of the Item #12" description="The image of the item #12" />
+				
+				<field type="spacer" name="spacer13" hr="true" />				
+				
+				<field name="enableitem13" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title13" type="text" default="" label="Title of the Item #13" description="" size="10" />
+				<field name="project_text13" type="text" default="" label="Text of the Item #13" description="" size="10" />
+				<field name="project_img13" type="media" default="" label="Images of the Item #13" description="The image of the item #13" />
+				
+				<field type="spacer" name="spacer14" hr="true" />				
+				
+				<field name="enableitem14" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title14" type="text" default="" label="Title of the Item #14" description="" size="10" />
+				<field name="project_text14" type="text" default="" label="Text of the Item #14" description="" size="10" />
+				<field name="project_img14" type="media" default="" label="Images of the Item #14" description="The image of the item #14" />
+				
+				<field type="spacer" name="spacer15" hr="true" />				
+				
+				<field name="enableitem15" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title15" type="text" default="" label="Title of the Item #15" description="" size="10" />
+				<field name="project_text15" type="text" default="" label="Text of the Item #15" description="" size="10" />
+				<field name="project_img15" type="media" default="" label="Images of the Item #15" description="The image of the item #15" />
+				
+				<field type="spacer" name="spacer16" hr="true" />				
+				
+				<field name="enableitem16" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title16" type="text" default="" label="Title of the Item #16" description="" size="10" />
+				<field name="project_text16" type="text" default="" label="Text of the Item #16" description="" size="10" />
+				<field name="project_img16" type="media" default="" label="Images of the Item #16" description="The image of the item #16" />
+				
+				<field type="spacer" name="spacer17" hr="true" />				
+				
+				<field name="enableitem17" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title17" type="text" default="" label="Title of the Item #17" description="" size="10" />
+				<field name="project_text17" type="text" default="" label="Text of the Item #17" description="" size="10" />
+				<field name="project_img17" type="media" default="" label="Images of the Item #17" description="The image of the item #17" />
+				
+				<field type="spacer" name="spacer18" hr="true" />				
+				
+				<field name="enableitem18" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title18" type="text" default="" label="Title of the Item #18" description="" size="10" />
+				<field name="project_text18" type="text" default="" label="Text of the Item #18" description="" size="10" />
+				<field name="project_img18" type="media" default="" label="Images of the Item #18" description="The image of the item #18" />
+				
+				<field type="spacer" name="spacer19" hr="true" />				
+				
+				<field name="enableitem19" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title19" type="text" default="" label="Title of the Item #19" description="" size="10" />
+				<field name="project_text19" type="text" default="" label="Text of the Item #19" description="" size="10" />
+				<field name="project_img19" type="media" default="" label="Images of the Item #19" description="The image of the item #19" />
+				
+				<field type="spacer" name="spacer20" hr="true" />				
+				
+				<field name="enableitem20" type="radio" class="btn-group btn-group-yesno" default="0" label="Activate Item" description="enable to activate this item">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<field name="project_title20" type="text" default="" label="Title of the Item #20" description="" size="10" />
+				<field name="project_text20" type="text" default="" label="Text of the Item #20" description="" size="10" />
+				<field name="project_img20" type="media" default="" label="Images of the Item #20" description="The image of the item #20" />
+				
+			</fieldset>	
+		</fields>
+    </config>
+</extension>

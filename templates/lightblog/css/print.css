@@ -1,0 +1,415 @@
+/*******************************************************************************************
+
+Light Blog Free Joomla! 3 Responsive Template - June 2015
+Package tpl-lightblog-free-j3.zip
+Version 1.0
+
+@copyright	Copyright (C) 2015 JooThemes.net 
+
+http://joothemes.net
+
+*******************************************************************************************/
+
+/* Global reset */
+html,body,div,span,applet,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;outline:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;}:focus{outline:0}body{line-height:1;color:#000;background:#fff;}ul{list-style:none;}table{border-collapse:separate;border-spacing:0}blockquote:before,blockquote:after,q:before,q:after{content:""}blockquote,q{quotes:"" ""}
+input,button{overflow:visible}strong{font-weight:bold}em{font-style: italic;}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+* {outline: 0px;}
+
+html, body { height: 100%; }
+
+body {
+background: #f7f7f7;
+ padding: 0; margin: 0;
+ text-align: left;
+ font: normal 12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+ line-height: 1.7em;
+ color: #333;
+}
+
+img {
+	border: none;
+	border: 0;
+	float: right;
+	margin: 0 0 10px 5px;
+}
+
+.image-left{
+	float: left;
+	margin: 0 10px 5px 0;
+}
+
+h1, h2, h3, h4, #topmenu, blockquote, #top ul li a, input.inputbox, input.button, div.search ol li a, span.item-title, legend, div.search dl.search-results dt.result-title, button { font: 700 16px 'Comfortaa', sans-serif;}
+
+
+#main {
+   margin: 0 auto;
+   padding: 0;
+   width: auto;
+	height: auto;
+	overflow: hidden;
+	clear: both;
+	text-align: left;
+}
+
+#main_content {
+   margin: 0 auto;
+	margin-bottom: 10px;
+   padding: 0 0 25px 0;
+   width: 960px;
+	height: auto;
+	overflow: hidden;
+	clear: both;
+}
+
+input{
+	border: 2px solid #D2D2D2;
+	padding: 2px;
+	height: 20px;
+	color: #000;
+}
+
+textarea{
+	border: 2px solid #D2D2D2;
+	padding: 2px;
+	color: #000;
+}
+
+select{
+	cursor: pointer;
+}
+
+
+ul{ 
+   list-style: none;
+	margin: 5px 0 15px 0;
+}
+
+ul li{ 
+   background: url(../images/arrowtrans.png) left 6px no-repeat;
+	padding: 0 0 0 12px;
+}
+
+blockquote{margin:1em 0 1.5em 0;padding:.6em 1em .6em .6em;color:#0688d3;  font-size: 16px; line-height: 150%;
+background-color: #fff; padding: 5px; border: 2px solid #D2D2D2;
+}
+blockquote p{padding:8px;margin:2px;}
+blockquote blockquote{margin:1em 0 1em;}
+
+/*
+ * general
+ * used by Jommla core components
+ */
+ 
+ h1,h2,h3,h4,h5,h6 {line-height: 100%;}
+ 
+ 
+h1{
+   font-size: 24px;
+	font-weight: normal;
+	margin: 0 0 20px 0;
+	color: #000;
+	text-decoration: none;
+}
+
+div#item-page h2{
+	font-size: 20px;
+	font-weight: normal;
+	margin: 0 0 20px 0;
+	color: #000;
+	text-decoration: none;
+}
+
+h2{
+   font-size: 20px;
+	font-weight: normal;
+	margin: 0 0 20px 0;
+	color: #000;
+	text-decoration: none;
+}
+
+h2.title{
+	margin: 0 0 10px 0;
+	line-height: 150%;
+}
+
+h2 a, body.contentpane h2 a, body.contentpane h1 a{
+   font-size: 28px;
+	font-weight: normal;
+	margin: 0 0 20px 0;
+   color: #000;
+	text-decoration: none;
+}
+
+h2 a:hover, body.contentpane h2 a:hover, body.contentpane h1 a:hover{
+	color: #0688d3;
+	text-decoration: none;
+}
+
+h2{
+	font-size: 22px;
+	margin: 16px 0 4px 0; 
+}
+
+h3{
+	font-size: 18px;
+	margin: 12px 0 4px 0;
+}
+
+p {	margin: 10px 0px 15px 0px; }
+
+ th {
+	padding: 5px 5px 5px 15px;
+	border-bottom: 2px solid #D2D2D2;
+	font-size: 16px;
+	color: #333;
+}
+
+ tr td {
+	padding: 5px 15px;
+	border-bottom: 2px solid #D2D2D2;
+}
+ 
+
+/*
+ * com_content
+ * list layout (frontpage, category, section)
+ * sub selectors: sectionlist, categorylist
+ */
+
+/*
+ * com_content
+ * article layout
+ * sub seletors: article
+ */
+ 
+div.article{
+	overflow: hidden;
+	padding: 15px;
+	margin: 0 0 15px 0;
+}
+ 
+div#articlecontent{
+	overflow: hidden;
+	clear: both;
+}
+
+ div.headline {
+	overflow: hidden;
+}
+
+ body.contentpane h1.title a {
+  text-decoration: none;
+}
+
+ div.multicolumns h1.title {
+	font-size: 200%;
+	letter-spacing: -1px;
+}
+
+ span.icon {
+	display: block;
+	float: right;
+}
+
+ div.multicolumns span.icon {
+}
+
+ span.edit {
+	float: left;
+}
+
+ span.pdf {
+	margin-right: 5px;
+}
+
+ span.print {
+	margin-right: 5px;
+}
+
+ span.email {
+}
+
+ span.printscreen {
+}
+
+ p.articleinfo {
+ margin: 0;
+}
+
+ p.articleinfo span.modified,
+ p.articleinfo span.author,
+ p.articleinfo span.created,
+ p.articleinfo span.url {
+	font-size: 95%;
+}
+
+ p.articleinfo span.author {
+	color: #A0A0A0;
+}
+
+ p.articleinfo span.created {
+}
+
+/* -------------------
+   Article Information
+-------------------- */
+dl.article-info {padding: 0 0 10px 0; font-size: 9px; color: #A0A0A0; line-height: normal; float: left; width: 100%;}
+
+div.blog dl.article-info, div.blog-featured dl.article-info { padding: 3px 10px 7px 0; font-size: 9px; color: #A0A0A0; line-height: normal; float: left; width: auto; }
+
+dl.article-info dt.article-info-term {}
+
+dl.article-info	dd {display: inline; margin: 0 9px 0 0;}
+div.item dl.article-info dd a, .article dl.article-info dd a { text-decoration: none;}
+div.item dl.article-info dd a:hover, .article dl.article-info dd a:hover {text-decoration: underline; color: #f96150;}
+
+div.blogintrotext{ overflow: hidden; clear: both; }
+
+/* Specific */
+dl.article-info	dd.parent-category-name a {}
+dl.article-info	dd.category-name a { text-decoration: none; color: #000;}
+dl.article-info	dd.category-name a:hover { text-decoration: underline; color: #f96150;}
+dl.article-info	dd.create {}
+dl.article-info	dd.modified {}
+dl.article-info	dd.published {}
+dl.article-info	dd.createdby a {}
+dl.article-info dd.hits {}
+
+body.contentpane{
+	padding: 15px;
+}
+
+body.contentpane input{
+   width: auto;
+	padding: 2px;
+	height: 20px;
+}
+
+body.contentpane input:hover, body.contentpane input:focus{
+	border: 2px solid #f96150;
+}
+
+body.contentpane a{
+   color: #0688d3;
+	text-decoration: none;
+}
+
+body.contentpane a:hover{
+   text-decoration: underline;
+}
+
+body.contentpane #page{
+	padding: 25px;
+}
+
+body.contentpane #page ul{
+	margin: 10px 0 15px 25px;
+}
+
+/* System Messages */
+#system-message    { margin-bottom: 10px; padding: 0; background-color: #e7e7e7; border: 2px solid #D2D2D2;}
+#system-message dt { font-weight: normal; }
+#system-message dd { margin: 0; font-weight: normal; font-size: 24px; line-height: normal; }
+#system-message dd ul { color: #ce1338; margin: 0; list-style: none; padding: 10px; font-size: 20px;}
+
+/* System Standard Messages */
+#system-message dt.message { display: none; }
+#system-message dd.message {  }
+
+/* System Error Messages */
+#system-message dt.error { display: none; }
+#system-message dd.error ul { color: #ce1338; font-size: 24px; font-weight: normal;}
+
+/* System Notice Messages */
+#system-message dt.notice { display: none; }
+#system-message dd.notice ul { font-size: 24px; font-weight: normal;}
+
+/* Debug */
+#system-debug     { color: black; background-color: #fff; padding: 10px; margin: 10px; }
+#system-debug div { font-size: 11px;}
+
+/* Form validation */
+.invalid { border-color: #f96150; }
+label.invalid { color: #f96150; }
+
+
+dl.stats-module dt{
+	font-weight: bold;
+	width: auto;
+	float: left;
+	margin: 0 5px 3px 0;
+}
+
+dl.stats-module dd{
+	margin: 0 0 3px 0;
+}
+
+input.button, button.button, button{
+	background-color: #f96150;
+	height: 26px;
+	padding: 0 14px;
+	color: #fff;
+	cursor: pointer;
+	font-size: 14px;
+	text-transform: uppercase;
+	border: 0;
+}
+
+input.button:hover, button.button:hover, button:hover{
+ 	color: #fff;
+	background-color: #5f5f5f;
+	border: 0;
+}
+
+div.mailto-close{
+	text-align: right;
+}
+
+div.formelm{
+	margin: 0 0 10px 0;
+}
+
+div.formelm label{
+	width: 75px;
+	float: left;
+}
+
+ul.actions{
+	text-align: right;
+}
+
+ul.actions li{
+   background-image: none;
+}
+
+div#mailto-window h2{
+	width: auto;
+	float: left;
+}
+
+body.contentpane div.mailto-close{
+	width: auto;
+	float: right;
+}
+
+body.contentpane div.mailto-close a{
+	color: #f96150;
+	text-decoration: none;
+}
+
+body.contentpane div.mailto-close a:hover{
+	text-decoration: underline;
+}
+
+div.formelm, div#mailto-window p{
+	width: 100%;
+	height: auto;
+	float: left;
+	margin: 5px 0;
+}

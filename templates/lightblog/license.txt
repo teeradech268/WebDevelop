@@ -1,0 +1,24 @@
+/*******************************************************************************************
+
+LIGHT BLOG Free Joomla! 3 Responsive Template - June 2015
+Package tpl-lightblog-free-j3.zip
+Version 1.0
+
+@copyright	Copyright (C) 2015 JooThemes.net 
+
+http://joothemes.net
+
+*******************************************************************************************/
+
+Footer link remove license
+
+LIGHT BLOG is free Joomla 3 template, released under the Creative Commons Attribution 3.0 license and are redistributed as long, as you keep the our links back on the footer. 
+
+You CAN NOT remove (or unreadable) these links without our permission. 
+
+When you don't want to have link back on the template footer or want to use our templates for commercial websites, you have to pay 10 USD via PayPal.
+
+When you don't want to have backlinks on the template footer, you have to pay 10 USD via PayPal.  
+
+Paypal: contact@joothemes.net
+

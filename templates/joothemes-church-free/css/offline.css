@@ -1,0 +1,101 @@
+/*******************************************************************************************
+
+Church Free Joomla! 3 Responsive Template - January 2017
+Package tpl-joothemes-church-pro-j3.zip
+Version 1.0
+
+@copyright	Copyright (C) 2017 JooThemes.net 
+
+http://joothemes.net
+
+*******************************************************************************************/
+
+body {
+    font-size: 18px;
+    color: #fff;
+    line-height: 24px;
+    background-color: #fff9f0;
+}
+#offline{text-align: center; margin: auto; background-color: #3d2e2e; padding: 15px; max-width: 500px;}
+
+a {
+
+      color: #a47c4b;
+      text-decoration: none;
+}
+
+a:focus, a:hover {
+  text-decoration: underline;
+
+
+}
+
+h1 {
+    color: #fff;
+    font-size: 48px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-bottom: 0px;
+    margin: 0px;
+    border: none;
+}
+
+h2 {
+    font-size: 48px;
+    color: #a47c4c;
+    text-align: center;
+    margin: 0;
+
+}
+
+h3 {
+    font-size: 30px;
+    color: #3d2e2e;
+}
+
+#container h3 {
+    font-size: 26px;
+}
+
+p {
+    font-size: 18px;
+    color: #fff;
+    line-height: 30px;
+}
+
+.btn {
+    position: relative;
+    float: left;
+    display: inline-block;
+    font-size: 22px;
+
+    padding: 8px 20px;
+    background-color: #a47c4b;
+    color: #fff;
+    line-height: 20x;
+    text-shadow: 0 0 5px rgba(0, 0, 0, .5);
+}
+
+/*** end footer-map  ***/
+
+#offline #frame input.inputbox{
+	background-color: #a47c4b;
+	color: #3d2e2e;
+	font-size: 18px;
+}
+
+#offline .btn {
+    border: none;
+    border-radius: 0;
+}
+
+.btn-margin {
+    margin-top: -45px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#offline  .btn-primary:hover, .btn:hover, #offline .btn-info:hover {
+    background: #644b2d;
+    color: #fff;
+}

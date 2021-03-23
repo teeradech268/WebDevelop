@@ -1,0 +1,56 @@
+/*******************************************************************************************
+
+Church Free Joomla! 3 Responsive Template - January 2017
+Package tpl-joothemes-church-pro-j3.zip
+Version 1.0
+
+@copyright	Copyright (C) 2017 JooThemes.net 
+
+http://joothemes.net
+
+*******************************************************************************************/
+
+
+body {
+    font-size: 18px;
+    color: #fff;
+    line-height: 24px;
+    background-color: #fff9f0;
+}
+#error{text-align: center; margin: auto; background-color: #3d2e2e; padding: 15px; max-width: 500px;}
+
+a {
+
+      color: #a47c4b;
+      text-decoration: none;
+}
+
+a:focus, a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+    color: #fff;
+    font-size: 180px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding-bottom: 0px;
+    margin: 0px;
+    line-height: 180px;
+}
+
+h2 {
+    font-size: 48px;
+    color: #a47c4c;
+    text-align: center;
+    margin: 0;
+
+}
+
+p {
+    font-size: 18px;
+    color: #fff;
+    line-height: 30px;
+}
+ol{text-align: left; color: #fff}
+li{ font-size: 20px; color: #fff; }

@@ -1,0 +1,84 @@
+/*
+#------------------------------------------------------------------------
+# Magazine - January Joomla! template (for Joomla 2.5)
+#
+# Copyright (C) 2007-2013 Gavick.com. All Rights Reserved.
+# License: Copyrighted Commercial Software
+# Website: http://www.gavick.com
+# Support: support@gavick.com 
+*/
+ 
+body {
+	font-size: 15px;
+}
+ 
+#gkContent {
+	background-image: none!important;
+} 
+
+#gkContent #gkContentWrap {
+	width: 100%!important;
+}
+
+.itemsContainer .itemsContainerWrap, 
+.itemContainer .itemsContainerWrap {
+	margin: 0!important;	
+}
+
+.nsphover .nspHoverOverlay {
+	display: none;
+}
+
+#gkContentWrap > section:first-child {
+	padding-top: 20px;
+}
+
+#k2Container article header h2 {
+	font-size: 32px;
+	line-height: 32px;
+}
+
+.demo-typo-col2,
+.demo-typo-col3,
+.demo-typo-col4 {
+	clear: both;
+	float: none;
+	width: 100%;
+}
+
+@media (max-width: 660px) {
+    body #cc-notification h2, 
+    body #cc-notification h3, 
+    body #cc-notification p {
+        font-size: 12px!important;
+        margin-bottom:0!important;
+        width: 100%!important;
+        max-width: 100%!important;
+    }
+
+    body #cc-notification h2 span, 
+    body #cc-notification h2 {
+        font-size: 12px!important;
+    }
+
+    body #cc-notification #cc-notification-wrapper {
+        padding: 10px 32px 0!important;
+    }
+
+    body #cc-notification ul.cc-notification-buttons {
+        clear: both!important;
+        width: 100%!important;
+        position: static!important;
+        text-align: center;
+    }
+
+    body #cc-notification ul.cc-notification-buttons li {
+        float: none!important;
+        display: inline-block;
+    }
+
+    body #cc-notification a, 
+    body #cc-notification a:visited {
+        font-size: 12px!important;
+    }
+}

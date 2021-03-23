@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.5" type="template" method="upgrade">
+	<name>JooThemes-Church-Free</name>
+	<creationDate>24 Jan 2017</creationDate>
+	<author>JooThemes.net</author>
+	<copyright>Copyright © 2017 JooThemes.net</copyright>
+	<authorEmail>contact@joothemes.net</authorEmail>
+	<authorUrl>http://www.joothemes.net</authorUrl>
+	<version>Stable 1.1. Commercial Design</version>
+	<description><![CDATA[
+<h1>Church Joomla! 3 Responsive Template</h1>
+<p><img src="../templates/joothemes-church-free/images/joothemes-church-template.jpg" alt="Church Joomla! 3 Responsive Template" style="padding-right: 20px;" align="left" /> <p><strong>Church Joomla! 3 Responsive Template developed by <a href="http://JooThemes.net" target="_blank">JooThemes.net</a>. <br />Need help to set up your template? Check out the <a href="http://joothemes.net/contact" target="_blank">JooThemes Support</a> page. <br />Download our <a href="http://JooThemes.net/free-joomla-templates" target="_blank">Free Joomla templates</a>. <br />See and buy our <a href="http://joothemes.net/responsive-joomla-templates" target="_blank">Joomla Templates Premium Versions</a>. <br />Copyright © 2017 JooThemes.net - All Rights Reserved</strong>.</p>
+<hr />
+<p>Package tpl-joothemes-church-free-j3.zip<br /> <strong>Church Joomla! 3 Responsive Template - January 2017</strong><br /> Version 1.0<br /> License: Commercial Design &amp; Layout Author: <a href="http://joothemes.net/" target="_blank">http://JooThemes.net</a><br /> Copyright (C) 2017 JooThemes.net All Rights Reserved.<br /> Email: <a href="mailto:contact@joothemes.net">contact@JooThemes.net</a></p>
+<h2>GPL Licensing</h2>
+<p>All JooThemes.net templates are released under the GNU General Public License, version 2 (http://www.gnu.org/licenses/gpl-2.0.html). Specifically, the PHP code portions are distributed under the GPL license. If not otherwise stated, all images, manuals, cascading style sheets, and included JavaScript are NOT GPL, and are released under "JooThemes.net" Proprietary Use License" unless specifically authorized. Elements of the templates released under this proprietary license may not be redistributed or repackaged for use other than those allowed by the Terms of Use.</p>
+<h2>TEMPLATE FEATURES</h2>
+<p><a class="btn" title="Buy this template with Qucikstart Package" href="http://joothemes.net/responsive-joomla-templates/church-free-joomla-3-rwd-template" target="_blank">Qucikstart Package - Buy Now (only 16 USD)</a></p>
+<p>Church Joomla! 3 Responsive Template, based on the Master Bootstrap Framework for Joomla! 3.x. The Bootstrap Framework makes it fully responsive to all screen resolutions and aspect ratios. The simplest way to build professional sites. Your imagination and your experience are the limit!</p>
+<h2>Church Joomla! 3 Responsive Template Features:</h2>
+<ul>
+<li>Joomla! 3.x compatible.</li>
+<li>Based on Bootstrap 3.3.5. One framework, every device. Bootstrap easily and efficiently scales your Joomla websites with a single code base, from phones to tablets to desktops with CSS media queries.</li>
+<li>Responsive Mobile-Friendly template for all Joomla 3.x. A responsive layout automatically adapts to the viewing device, allowing for an optimized appearance on multiple devices, such as tablets.</li>
+<li>Template Bundle Package.</li>
+<li>Left sticky menu, logo and widgets.</li>
+<li>CSS Superfish multi-level dropdown menu<strong>.</strong></li>
+<li>Responsive multi-level menu support, flexible and cross-browser compatibility.</li>
+<li>Tableless design and 100% CSS based.</li>
+<li>Built by advance HTML5 and CSS3.</li>
+<li>Lightweight and fast-loading.</li>
+<li>Logo as Image with configuration parameters.</li>
+<li>Built-in Google Fonts (<strong>more fonts - 650+ available only with Qucikstart Package</strong>).</li>
+<li>Built-in social media icons for the popular social networking sites including Twitter, Facebook, Google Plus, Youtube, LinkedIn and more...</li>
+<li>2 layout options: 2 columns (content + right), 1 column (content).</li>
+<li>Typography Page.</li>
+<li>A lot Module Positions. All module positions are fully collapsible.</li>
+<li>Cross-Browser Support - Church template work great with all modern browsers like Firefox, Chrome, Safari, Opera and Internet Explorer 9+.</li>
+<li>Heading: h1, h2, h3, h4 and h5.</li>
+<li>SEO SEF Optimised Layout. Optimized code for Search Engines which helps in SEO.</li>
+<li>SEO Breadcrumbs with Microdata Google - this will give a nice category-display in the Google search results.</li>
+<li>And more features, some only available in the Premium Version with quickstart package:</li>
+</ul>
+<h2>Church Joomla Template Quickstart Instalation Package</h2>
+<h3>What is quickstart package?</h3>
+<p>"Quickstart Package" is a Church Joomla Template + Joomla 3 + all content, all modules, all components and settings used in <a href="http://demo.joothemes.net/joomla3/church" target="_blank">demo site</a>.</p>
+<h2>How to install Quickstart package?</h2>
+<p>Quickstart Package install exactly the same as a normal Joomla! installation package. (To get know more about technical requirements to run Joomla! please visit: Joomla technical requirements).</p>
+<p><strong>Quickstart will save your time and work. </strong><strong>You will get exactly the same as demo page <a href="http://demo.joothemes.net/joomla3/church">http://demo.joothemes.net/joomla3/church</a></strong></p>
+<h2>Quickstart package extra features and modules:</h2>
+<ul>
+<li>Unite Revolution Slider - an awesome, fully responsive jQuery slider! (available only with Qucikstart Package)</li>
+<li>Gallery plugin and module (available in Qucikstart Package). (Sigplus Image Gallery Plus is a straightforward way to add image or photo galleries to a Joomla article with a simple syntax. It takes a matter of minutes to set up a gallery but those who are looking for a powerful gallery solution will not be disappointed either: sigplus is suitable for both beginner and advanced users.</li>
+<li>Joomla responsive grid module media portfolio for Joomla 3x.</li>
+<li>Built-in 650+ Google Fonts (available only with Qucikstart Package).</li>
+<li>Joomla news module display latest news (Joomla Articles or K2) with full control over all elements (available only with Qucikstart Package).</li>
+<li>JCE editor - the best WYSiWYG editor for Joomla!</li>
+<li>Extra SEO SEF plugins automatically generates description meta tags by pulling text from the content to help with SEO. It also gives you the ability to set different title configurations.</li>
+<li>Extra Cache plugin.</li>
+<li>And more...</li>
+</ul>
+<h2><a class="btn" title="Buy this template with Qucikstart Package" href="http://joothemes.net/responsive-joomla-templates/church-free-joomla-3-rwd-template" target="_blank">Qucikstart Package - Buy Now (only 16 USD)</a></h2>
+<h2><strong>More information on <a href="http://JooThemes.net/" target="_blank">http://JooThemes.net</a></strong></h2>
+<img src="../templates/joothemes-church-free/images/modules.png" align="left" hspace="10" style="padding-top:10px;"/>
+	]]></description>
+	<files>
+		<folder>css</folder>
+		<folder>fonts</folder>
+		<folder>html</folder>
+		<folder>images</folder>
+		<folder>includes</folder>
+		<folder>js</folder>
+		<folder>scss</folder>
+		<folder>vendor</folder>
+		<filename>component.php</filename>
+		<filename>error.php</filename>
+		<filename>index.php</filename>
+		<filename>offline.php</filename>
+		<filename>favicon.ico</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>social.php</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>template_preview.png</filename>
+	</files>
+    <positions>
+		<position>top_phone</position>
+		<position>top_address</position>
+		<position>top_time</position>
+		<position>navigation</position>
+		<position>fullwidth</position>
+        <position>showcase1</position>
+		<position>showcase2</position>
+		<position>showcase3</position>
+		<position>showcase4</position>
+		<position>feature</position>
+        <position>breadcrumbs</position>
+        <position>right</position>
+        <position>content-top</position>
+        <position>content-bottom</position>
+        <position>bottom</position>
+		<position>bottom_gallery</position>
+		<position>box</position>
+		<position>box-bottom</position>
+        <position>copy</position>
+        <position>panelnav</position>
+		<position>debug</position>
+		<position>footer-map</position>
+		<position>footer</position>
+		<position>footer-menu1</position>
+	    <position>showcase_top</position>
+	    <position>top_about</position>
+	</positions>
+	<config>
+		<fields name="params">
+			<fieldset name="advanced">
+			<field type="spacer" class="text" label="This is Free Lite Version JooThemes Church Joomla Template" />
+			<field type="spacer" class="text" label="&lt;a href='http://joothemes.net/responsive-joomla-templates/church-free-joomla-3-rwd-template' target='_blank'&gt;&lt;b style='color:red;text-decoration: underline'&gt;Get this template Premium Version with Quickstart Package, 650+ Google Fonts, footer links removal, support and more options from here!&lt;/b&gt;&lt;/a&gt;" />
+				<field name="leftColumnWidth" type="list" default="3" label="Left Column Width" description="Choose a width for your left column">
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</field>
+				<field name="rightColumnWidth" type="list" default="3" label="Right Column Width" description="Choose a width for your right column">
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+				</field>
+				<!-- SHOW FRONTPAGE-->
+				<field name="frontpageshow" type="radio" class="btn-group" default="0" label="Show FrontPage Articles" description="Show FrontPage Articles">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<!-- SUPERFISH-->
+				<field name="superfish" type="list" default="yes" label="Superfish Menu Effect" description="Enable or disable Supperfish effect for main navigation menu. This requires jQuery plugin." filter="word">
+					<option value="yes">Enable</option>
+					<option value="no">Disable</option>
+				</field>
+
+				<!-- MODERNIZR-->
+				<field name="modernizr" type="radio" class="btn-group" default="0"
+					label="Modernizr"
+					description="Enable JavaScript modernizr.js in head">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<!-- FONT-AWESOME -->
+				<field name="fontawesome" type="radio" class="btn-group" default="0"
+					label="Font Awesome"
+					description="Enable Font Awesome for better icons in Bootstrap">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<!-- PIE-->
+				<field name="pie" type="radio" class="btn-group" default="0"
+					label="PIE"
+					description="Enable PIE (CSS3 for IE 9+8)">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<!-- MATERIAL DESIGN-->
+				<field name="materialdesign" type="radio" class="btn-group" default="0"
+					label="Material Design"
+					description="Enable Material Design">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+				<!-- SASS-->
+				<field name="compile_sass" type="radio" class="btn-group" default="0"
+					label="Compile Sass"
+					description="Do you want to enable Sass compilation)">
+					<option value="1">JYES</option>
+					<option value="0">JNO</option>
+				</field>
+			</fieldset>
+			<!-- LOGO-->
+			<fieldset  name="logo" type="upload_func" label="Logo">
+			<field type="spacer" class="text" label="This is Free Lite Version JooThemes Church Joomla Template" />
+			<field type="spacer" class="text" label="&lt;a href='http://joothemes.net/responsive-joomla-templates/church-free-joomla-3-rwd-template' target='_blank'&gt;&lt;b style='color:red;text-decoration: underline'&gt;Get this template Premium Version with Quickstart Package, 650+ Google Fonts, footer links removal, support and more options from here!&lt;/b&gt;&lt;/a&gt;" />
+					<field name="logo_file" type="media" label="Select your logo:" default="templates/joothemes-church-free/images/logo.png"></field>
+					<field name="logo_link" type="text" label="Logo link:"  description="Example: http://www.joothemes.net" default="index.php"></field>
+					<field name="logo_width" type="text" label="Logo width:" description="Example: 254" default="254"></field>
+					<field name="logo_height" type="text" label="Logo height:" description="Example: 67" default="67"></field>
+			</fieldset>
+			<!-- LAYOUT -->
+
+<fieldset name="gfont" description="" label="Google Fonts">
+			<field type="spacer" class="text" label="This is Free Lite Version JooThemes Church Joomla Template" />
+			<field type="spacer" class="text" label="&lt;a href='http://joothemes.net/responsive-joomla-templates/church-free-joomla-3-rwd-template' target='_blank'&gt;&lt;b style='color:red;text-decoration: underline'&gt;Get this template Premium Version with Quickstart Package, 650+ Google Fonts, footer links removal, support and more options from here!&lt;/b&gt;&lt;/a&gt;" />
+<field name="googleFontBody" class="" type="list" default="Libre+Baskerville" label="Choose Google Font mainbody text" description="You change the font for main text body." >
+<option value="Libre+Baskerville">Libre+Franklin</option>
+</field>
+
+<field name="googleFont" class="" type="list" default="Libre+Baskerville" label="Choose Google Font" description="You change the font for headers and main menu." >
+<option value="Libre+Baskerville">Libre+Franklin</option>
+</field>
+<field name="googleFontCharacter" class="" type="text" default="latin,latin-ext" label="Choose the character sets you want:" description="You can use (one or more, each separated by commas): latin,latin-ext,cyrillic,cyrillic-ext,greek,greek-ext,vietnamese,khmer,devanagari. IMPORTANT! If you are not sure if the font supports your language, refer to https://www.google.com/fonts.">
+</field>
+<field name="googleFontWeight" class="" type="text" default="400,700" label="Font weight:" description="You can use (one or more, each separated by commas): 300,400,700. IMPORTANT! If you are not sure if the font supports weight, refer to https://www.google.com/fonts.">
+</field>
+</fieldset>
+
+	  <!-- PATTERN -->
+	   <fieldset name="Social" label="Social Options">
+	   		<field type="spacer" class="text" label="This is Free Lite Version JooThemes Church Joomla Template" />
+			<field type="spacer" class="text" label="&lt;a href='http://joothemes.net/responsive-joomla-templates/church-free-joomla-3-rwd-template' target='_blank'&gt;&lt;b style='color:red;text-decoration: underline'&gt;Get this template Premium Version with Quickstart Package, 650+ Google Fonts, footer links removal, support and more options from here!&lt;/b&gt;&lt;/a&gt;" />
+            <field name="SocialLink1" label="&lt;div class=&quot;social_1&quot;&gt;Facebook&lt;/div&gt;" type="text" default="" description="Add URL here. (ie: http://facebook.com/user.name)" />
+			<field name="SocialLink2" label="&lt;div class=&quot;social_2&quot;&gt;Twitter&lt;/div&gt;" type="text" default="" description="Add URL here. (ie: http://twitter/username)" />
+			<field name="SocialLink3" label="&lt;div class=&quot;social_3&quot;&gt;Google&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink4" label="&lt;div class=&quot;social_4&quot;&gt;Youtube&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink5" label="&lt;div class=&quot;social_5&quot;&gt;Vimeo&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink6" label="&lt;div class=&quot;social_9&quot;&gt;Linkedin&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink7" label="&lt;div class=&quot;social_10&quot;&gt;RSS&lt;/div&gt;" type="text" default="" description="Add URL here." />
+			<field name="SocialLink8" label="&lt;div class=&quot;social_22&quot;&gt;Instagram&lt;/div&gt;" type="text" default="" description="Add URL here." />
+      </fieldset>
+			</fields>
+
+	</config>
+</extension>

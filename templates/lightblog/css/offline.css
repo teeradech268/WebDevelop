@@ -1,0 +1,144 @@
+/*******************************************************************************************
+
+Light Blog Free Joomla! 3 Responsive Template - June 2015
+Package tpl-lightblog-free-j3.zip
+Version 1.0
+
+@copyright	Copyright (C) 2015 JooThemes.net 
+
+http://joothemes.net
+
+*******************************************************************************************/
+
+body {
+background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAEElEQVQImWN4/fr1fwY6AACAugPBVW3M5QAAAABJRU5ErkJggg==) repeat;
+ padding: 0; margin: 0;
+ text-align: center;
+ font: normal 12px Verdana, Geneva, Arial, Helvetica, sans-serif;
+ line-height: 1.7em;
+ color: #333;
+}
+
+h1 { font-family: arial, serif; font-size: 28px; line-height: 150%; }
+
+#box {
+width:600px;
+margin: 10px auto 50px auto;
+padding: 16px;
+}
+
+#slide_wrapper{
+background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAOUlEQVQYlX3OuwkAMAxDwbf/mgFrDKdJIB/ZhRpxCAEQI1KSDZISoAUdukqH/uJBfvZA9bmFSrDRBObSz1tAk3+IAAAAAElFTkSuQmCC);
+	border-bottom: 2px solid #d2d2d2;
+   border-top: 2px solid #d2d2d2;
+	width: 100%;
+	height: auto;
+	line-height: 140%;
+	margin: 0;
+	padding: 30px 0;
+	text-align:center;
+   color:#0688d3;
+   font-weight:bold;
+   font-size: 40px;
+   text-align: center;
+}
+
+
+
+
+#box div>p { 
+	font-size: 20px;
+	margin: 0;
+	padding: 10px;
+	color: #fff;
+   background-color: #0688d3;
+	border: 2px solid #D2D2D2;
+	text-align: center;
+	font-family: 'Doppio One', arial, serif;
+}
+
+#box>div>p br {
+display: none;
+}
+
+.outline {
+padding-top: 20px;
+margin-top: 4px;
+}
+
+fieldset {
+border:none;
+padding:10px 63px 0 63px;
+margin:0 auto;
+width: 442px;
+}
+
+p.username, p.password, p.remember { 
+float: left; 
+margin: 10px 0 0;
+}
+
+p.password { 
+margin-left: 20px; 
+}
+
+p.username input, p.password input { 
+border: 2px solid #D2D2D2; 
+width: 156px; 
+}
+
+p.remember, #form-login ul { 
+clear: both; 
+}
+
+p.username input, p.password input {
+	background-color: #fff;
+   border: 2px solid #D2D2D2 !important; 
+	width: 190px;
+	height: 23px;
+	padding: 0px 5px 0px 10px;
+	float: left;
+	display: inline;
+	font-size: 12px;
+	color: #000;
+	border: 0;
+}
+
+div.buttons { 
+float: right; 
+margin: 10px 0 20px; 
+cursor: pointer;
+}
+
+input[type=submit] {
+	background-color: #0688d3;
+	height: 26px;
+	padding: 0 14px;
+	color: #fff;
+	cursor: pointer;
+	font-size: 14px;
+	text-transform: uppercase;
+	border: 0;
+}
+
+/* System Messages */
+#system-message    { margin-bottom: 10px; padding: 0; background-color: #e7e7e7; border: 2px solid #D2D2D2;}
+#system-message dt { font-weight: normal; }
+#system-message dd { margin: 0; font-weight: normal; font-size: 24px; line-height: normal; }
+#system-message dd ul { color: #0688d3; margin: 0; list-style: none; padding: 10px; font-size: 20px;}
+
+/* System Standard Messages */
+#system-message dt.message { display: none; }
+#system-message dd.message {  }
+
+/* System Error Messages */
+#system-message dt.error { display: none; }
+#system-message dd.error ul { color: #0688d3; font-size: 24px; font-weight: normal;}
+
+/* System Notice Messages */
+#system-message dt.notice { display: none; }
+#system-message dd.notice ul { font-size: 24px; font-weight: normal;}
+
+/* Debug */
+#system-debug     { color: black; background-color: #fff; padding: 10px; margin: 10px; }
+#system-debug div { font-size: 11px;}
